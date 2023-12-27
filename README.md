@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Vamshi Allanki</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
  
-<img src="devops.gif" align="right" alt="Smiley face">
+<img src="DevOps.gif" align="right" alt="Smiley face">
 <p align="left">
  
  
